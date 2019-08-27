@@ -4,6 +4,15 @@ body{
     text-align: center;
 }
 
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#info a{
+    text-decoration: none;
+    color: beige;
+}
+
 img{
     width: auto;
     height: 200px;
@@ -17,6 +26,15 @@ img{
         border-radius:20%;
         text-align: center;
     }
+
+    #info{
+        font-size: 25px;
+    }
+    
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
 }
 
 img:hover{
