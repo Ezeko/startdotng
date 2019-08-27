@@ -1,5 +1,5 @@
 body{
-    background-color: #525050;
+    background-color: #1b1b1b;
     color: aliceblue;
     text-align: center;
 }
@@ -13,6 +13,9 @@ header{
     color: beige;
 }
 
+#profile{
+    padding: 2%;
+}
 img{
     width: auto;
     height: 200px;
@@ -25,6 +28,13 @@ img{
         height: 500px;
         border-radius:20%;
         text-align: center;
+    }
+    #experience{
+        font-size: 25px;
+    }
+
+    #education{
+        font-size: 25px;
     }
 
     #info{
